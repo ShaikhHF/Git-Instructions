@@ -2,3 +2,31 @@ This is a test document.
 
 Let's have fun.
 fosfsafoksapofkopskfoksapfkoskfpaskofkaspkfosa
+
+Steps:
+
+git clone <the name or URL of the git repository>
+
+ls -ltr //shows everything in the folder you are in
+
+cd <name of the repository>
+
+ls -ltr //shows the files of the git repositorys folder
+
+//now use notepad++ or visual studio code to change things
+
+//once done 
+
+git status //see what files have been changed
+
+git add . //adds all changed files to git
+
+git commit -m "Comment that will be seen in github" 
+
+git push //pushes files to github
+
+---
+
+//if you want to have the most up to date file do:
+
+git pull
