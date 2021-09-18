@@ -1,8 +1,3 @@
-This is a test document.
-
-Let's have fun.
-fosfsafoksapofkopskfoksapfkoskfpaskofkaspkfosa
-
 Steps:
 
 git clone <the name or URL of the git repository>
